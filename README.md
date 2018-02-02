@@ -1,2 +1,2 @@
 # python
-This is python code snippets repo
+This is a python code snippets repo for fun
