@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/python
 
 def vowelCount():
 	vowels = "aeiuo"
